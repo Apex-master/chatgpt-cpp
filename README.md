@@ -23,7 +23,7 @@ To improve the quality and relevance of the responses, ChatGPT-CPP includes mult
 The application provides a user-friendly interface powered by the Dear ImGui library, which allows users to interact with the chatbot and modify API requests. The user can adjust settings such as the temperature and presencePenalty values, which control the randomness and creativity of the model's responses. These settings can be fine-tuned to improve the quality of the conversation and tailor the chatbot's responses to the user's preferences.
 
 ## To do
-* Multi-turn conversations (no sessions avaiable yet for OpenAI API)
+* Multi-turn conversations (no sessions available yet for OpenAI API)
 
 ## Credits:
 * [OpenAI](https://openai.com)
