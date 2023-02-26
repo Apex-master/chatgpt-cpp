@@ -12,8 +12,8 @@ chatgpt-cpp is a conversational AI software application built in C++ using OpenA
 * Multiple AI styles that implement prompts before the user's question to personalize the conversation.
 
 <b>Screenshots:</b>
-![screenshot](https://github.com/Apex-master/chatgpt-cpp/screenshot1.png)
-![screenshot](https://github.com/Apex-master/chatgpt-cpp/screenshot2.png)
+![screenshot](https://github.com/Apex-master/chatgpt-cpp/blob/main/screenshot1.png)
+![screenshot](https://github.com/Apex-master/chatgpt-cpp/blob/main/screenshot2.png)
 
 ![MP4 Demo](https://imgui/dwdw.mp4)
 
