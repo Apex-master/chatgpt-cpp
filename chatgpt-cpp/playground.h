@@ -44,7 +44,6 @@ void AIPlayground(HWND hwnd)
         ImGui::SetTooltip("Default Style");
     }
 
-
     ImGui::Spacing();
     ImGui::PushStyleColor(ImGuiCol_Button, aiStyle == 1 ? active : inactive);
     if (ImGui::Button(ICON_FA_MAILBOX, ImVec2(100 - 15, 41)))
@@ -232,7 +231,8 @@ void AIPlayground(HWND hwnd)
             {
                 logEditor.InsertText("[-] Please ensure that you fill out the API field, as it appears to be empty or incomplete\n");
             }
-        }ImGui::PopStyleVar();
+        }
+        ImGui::PopStyleVar();
     }
     ImGui::EndChild();
 
