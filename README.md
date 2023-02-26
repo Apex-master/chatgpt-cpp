@@ -15,8 +15,6 @@ chatgpt-cpp is a conversational AI software application built in C++ using OpenA
 ![screenshot](https://github.com/Apex-master/chatgpt-cpp/blob/main/screenshot1.png)
 ![screenshot](https://github.com/Apex-master/chatgpt-cpp/blob/main/screenshot2.png)
 
-![MP4 Demo](https://imgui/dwdw.mp4)
-
 ## How it works
 It uses the OpenAI GPT model, which is a transformer-based neural network that has been pre-trained on a large corpus of text data, to generate responses to user inputs. The application sends the user input to the GPT model API, which returns a sequence of tokens that represent the model's generated response.
 
