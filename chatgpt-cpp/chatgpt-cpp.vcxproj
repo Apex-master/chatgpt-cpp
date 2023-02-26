@@ -23,9 +23,9 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{5dc8c58e-9c84-450f-a6a7-a76abfada8b4}</ProjectGuid>
-    <RootNamespace>WindowFinder</RootNamespace>
+    <RootNamespace>chatgpt-cpp</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>AI Playground</ProjectName>
+    <ProjectName>chatgpt-cpp</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
