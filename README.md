@@ -29,3 +29,4 @@ The application provides a user-friendly interface powered by the Dear ImGui lib
 * [OpenAI](https://openai.com)
 * [imgui](https://github.com/ocornut/imgui)
 * [ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit)
+* [curl](https://github.com/curl/curl)
